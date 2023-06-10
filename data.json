@@ -1,0 +1,93 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/16/ebcb12cd-6d54-470c-8e57-708a572fa47f.jpg",
+            "nama": "Bubuk Kopi Aming ASLI Pontianak",
+            "size": "200 Gram",
+            "harga": "16.000",
+            "link": "https://www.tokopedia.com/daoen-/bubuk-kopi-aming-asli-pontianak-200-gram?extParam=ivf%3Dfalse%26src%3Dsearchhttps://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "starbuck": [
+        {
+            "foto": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/18/6e3d709e-b02c-459c-96e5-adf4b4c09857.jpg",
+            "nama": "STARBUCKS® VERANDA BLEND Blonde Roast Kopi Bubuk Sachet",
+            "size": "200 Gram",
+            "harga": "132.000",
+            "link": "https://www.tokopedia.com/starbucksathome/starbucks-veranda-blend-blonde-roast-kopi-bubuk-sachet-bag-200g?extParam=whid%3D14301137"
+        },
+        {
+            "foto": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/18/41565e0b-0711-4408-bb47-94b1c6605b9c.jpg",
+            "nama": "starbBiji Kopi Bubuk Starbuck Breakfast",
+            "size": "200 Gram",
+            "harga": "132.000",
+            "link": "httpshttps://www.tokopedia.com/starbucksathome/starbucks-house-blend-medium-roast-kopi-bubuk-sachet-bag-200g?extParam=whid%3D14301137://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tokopedia.com%2Fausiefood%2Fbiji-kopi-bubuk-starbuck-breakfast-whole-bean-coffee-starbucks-250gr&psig=AOvVaw0XCBBXG4JkT_vQvYopUrGO&ust=1686283931592000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCPiaq63nsv8CFQAAAAAdAAAAABAD"
+        },
+        {
+            "foto": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/18/1e9c57c6-2854-4f5a-b11d-95cabf1a0314.jpg",
+            "nama": "STARBUCKS® DoubleSHOT Mocha",
+            "size": "220 ml",
+            "harga": "16.000",
+            "link": "hhttps://www.tokopedia.com/starbucksathome/starbucks-doubleshot-mocha-kaleng-220ml?extParam=whid%3D14301137ttps://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/18/1e9c57c6-2854-4f5a-b11d-95cabf1a0314.jpghttps://www.tokopedia.com/starbucksathome/starbucks-doubleshot-mocha-kaleng-220ml?extParam=whid%3D14301137https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tokopedia.com%2Fausiefood%2Fbiji-kopi-bubuk-starbuck-breakfast-whole-bean-coffee-starbucks-250gr&psig=AOvVaw0XCBBXG4JkT_vQvYopUrGO&ust=1686283931592000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCPiaq63nsv8CFQAAAAAdAAAAABAD"
+        },
+        {
+            "foto": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/18/b53cefa7-f9fa-4db3-9376-9cd2df53aed3.jpg",
+            "nama": "STARBUCKS® Frappuccino Coffee",
+            "size": "280 ml",
+            "harga": "29.000",
+            "link": "https://www.tokopedia.com/starbucksathome/starbucks-frappuccino-coffee-pet-280ml?extParam=whid%3D14301137https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tokopedia.com%2Fausiefood%2Fbiji-kopi-bubuk-starbuck-breakfast-whole-bean-coffee-starbucks-250gr&psig=AOvVaw0XCBBXG4JkT_vQvYopUrGO&ust=1686283931592000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCPiaq63nsv8CFQAAAAAdAAAAABAD"
+        },
+        {
+            "foto": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/18/bf48eb2e-3786-478e-9849-e21f577480db.jpg",
+            "nama": "STARBUCKS® DoubleSHOT Espresso Latte Kaleng",
+            "size": "220 Gram",
+            "harga": "16.000",
+            "link": "https://www.tokopedia.com/starbucksathome/starbucks-doubleshot-espresso-latte-kaleng-220ml?extParam=whid%3D14301137https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tokopedia.com%2Fausiefood%2Fbiji-kopi-bubuk-starbuck-breakfast-whole-bean-coffee-starbucks-250gr&psig=AOvVaw0XCBBXG4JkT_vQvYopUrGO&ust=1686283931592000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCPiaq63nsv8CFQAAAAAdAAAAABAD"
+        },
+        {
+            "foto": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/18/aadd144b-bc2a-4a3f-87a6-515489f24936.jpg",
+            "nama": "STARBUCKS® Cappuccino by NESCAFE DOLCE GUSTO",
+            "size": "250 Gram",
+            "harga": "132.000",
+            "link": "https://www.tokopedia.com/starbucksathome/starbucks-cappuccino-by-nescafe-dolce-gusto-120g-x-12pcs?extParam=whid%3D14301137https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tokopedia.com%2Fausiefood%2Fbiji-kopi-bubuk-starbuck-breakfast-whole-bean-coffee-starbucks-250gr&psig=AOvVaw0XCBBXG4JkT_vQvYopUrGO&ust=1686283931592000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCPiaq63nsv8CFQAAAAAdAAAAABAD"
+        }
+        
+    ]
+}
